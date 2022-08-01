@@ -5,6 +5,10 @@
 [![github Badge](https://github.com/Saradeepika/Saradeepika)
 [![stackoverflow Badge](https://stackoverflow.com/users/19623703/saradeepika)
 
+I'm
+Full Stack Solution Architect
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+
 I am Nandikunta Sara Deepika.I completed my Graduation in BSc in Computer Science background from Rayalaseema University in Andhra Pradesh. Currently, I am working in Wipro Ltd company. My role is Queue engineer(supporting team) in EY project. But I want to see myself as a developer and so I am here learning Full Stack Developer Course. I got to know about Edureka Platform from Youtube Social media app. And I am feeling this is the excellent platform to boost my career.
 
 *Microsoft Office
