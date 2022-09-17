@@ -12,6 +12,9 @@ I am Nandikunta Sara Deepika.I completed my Graduation in BSc in Computer Scienc
 *C programming Language
 *Java
 *Python
+*HTML
+*CSS
+
 
 My hobbies are Listening to music, Cooking and Watching TV.
 
